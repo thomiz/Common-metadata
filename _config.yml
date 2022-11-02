@@ -1,0 +1,7 @@
+remote_theme: just-the-docs/just-the-docs
+logo: images/logo.png
+title: Common metadata
+exclude: README.md
+
+plugins:
+  - jekyll-seo-tag
